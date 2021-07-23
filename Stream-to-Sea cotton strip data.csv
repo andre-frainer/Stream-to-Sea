@@ -1,0 +1,154 @@
+   replicate    treatment    Treatment time temperature tensileStrength          kday
+1         1a      Control        Fresh    0         0.0            66.0           Inf
+2         2a      Control        Fresh    0         0.0            67.9           Inf
+3         3a      Control        Fresh    0         0.0            65.5           Inf
+4         4a      Control        Fresh    0         0.0            67.5           Inf
+5         5a      Control        Fresh    0         0.0            67.5           Inf
+6         6a      Control        Fresh    0         0.0            67.0           Inf
+7         7a      Control        Fresh    0         0.0            67.7           Inf
+8         8a      Control        Fresh    0         0.0            67.6           Inf
+9         9a      Control        Fresh    0         0.0            68.4           NaN
+10       10a      Control        Fresh    0         0.0            68.1           Inf
+11        1a        Fresh        Fresh   15        63.7            67.9  4.891193e-04
+12        2a        Fresh        Fresh   15        63.7            66.5  1.878058e-03
+13        3a        Fresh        Fresh   15        63.7            57.3  1.180481e-02
+14        4a        Fresh        Fresh   15        63.7            67.8  5.873753e-04
+15        1b        Fresh        Fresh   15        63.7            68.0  3.910080e-04
+16        2b        Fresh        Fresh   15        63.7            63.4  5.060598e-03
+17        3b        Fresh        Fresh   15        63.7            65.0  3.399037e-03
+18        4b        Fresh        Fresh   15        63.7            66.8  1.577983e-03
+19        1a        Fresh        Fresh   41       102.6            71.4 -1.046952e-03
+20        2a        Fresh        Fresh   41       102.6            70.6 -7.721298e-04
+21        3a        Fresh        Fresh   41       102.6            58.9  3.647115e-03
+22        4a        Fresh        Fresh   41       102.6            66.1  8.342458e-04
+23        1b        Fresh        Fresh   41       102.6            65.4  1.093916e-03
+24        2b        Fresh        Fresh   41       102.6            65.6  1.019442e-03
+25        3b        Fresh        Fresh   41       102.6            59.7  3.318068e-03
+26        4b        Fresh        Fresh   41       102.6            65.0  1.243550e-03
+27        1a      Control       Marine    0         0.0            66.0           Inf
+28        2a      Control       Marine    0         0.0            67.9           Inf
+29        3a      Control       Marine    0         0.0            65.5           Inf
+30        4a      Control       Marine    0         0.0            67.5           Inf
+31        5a      Control       Marine    0         0.0            67.5           Inf
+32        6a      Control       Marine    0         0.0            67.0           Inf
+33        7a      Control       Marine    0         0.0            67.7           Inf
+34        8a      Control       Marine    0         0.0            67.6           Inf
+35        9a      Control       Marine    0         0.0            68.4           NaN
+36       10a      Control       Marine    0         0.0            68.1           Inf
+37        1a       Marine       Marine   15       161.5            67.4  9.818538e-04
+38        2a       Marine       Marine   15       161.5            66.8  1.577983e-03
+39        3a       Marine       Marine   15       161.5            58.0  1.099532e-02
+40        4a       Marine       Marine   15       161.5            62.2  6.334522e-03
+41        1b       Marine       Marine   15       161.5            67.6  7.843228e-04
+42        2b       Marine       Marine   15       161.5            68.5 -9.739471e-05
+43        3b       Marine       Marine   15       161.5            68.3  9.753720e-05
+44        4b       Marine       Marine   15       161.5            68.3  9.753720e-05
+45        1a       Marine       Marine   41       394.3            44.6  1.043022e-02
+46        2a       Marine       Marine   41       394.3            44.6  1.043022e-02
+47        3a       Marine       Marine   41       394.3            31.0  1.930209e-02
+48        4a       Marine       Marine   41       394.3            52.8  6.313698e-03
+49        1b       Marine       Marine   41       394.3            17.2  3.366984e-02
+50        2b       Marine       Marine   41       394.3            42.2  1.177933e-02
+51        3b       Marine       Marine   41       394.3            38.0  1.433626e-02
+52        4b       Marine       Marine   41       394.3            21.3  2.845526e-02
+53        1a      Control Fresh.Marine    0         0.0            66.0           Inf
+54        2a      Control Fresh.Marine    0         0.0            67.9           Inf
+55        3a      Control Fresh.Marine    0         0.0            65.5           Inf
+56        4a      Control Fresh.Marine    0         0.0            67.5           Inf
+57        5a      Control Fresh.Marine    0         0.0            67.5           Inf
+58        6a      Control Fresh.Marine    0         0.0            67.0           Inf
+59        7a      Control Fresh.Marine    0         0.0            67.7           Inf
+60        8a      Control Fresh.Marine    0         0.0            67.6           Inf
+61        9a      Control Fresh.Marine    0         0.0            68.4           NaN
+62       10a      Control Fresh.Marine    0         0.0            68.1           Inf
+63        1a        Fresh Fresh.Marine   15        63.7            67.9  4.891193e-04
+64        2a        Fresh Fresh.Marine   15        63.7            66.5  1.878058e-03
+65        3a        Fresh Fresh.Marine   15        63.7            57.3  1.180481e-02
+66        4a        Fresh Fresh.Marine   15        63.7            67.8  5.873753e-04
+67        1b        Fresh Fresh.Marine   15        63.7            68.0  3.910080e-04
+68        2b        Fresh Fresh.Marine   15        63.7            63.4  5.060598e-03
+69        3b        Fresh Fresh.Marine   15        63.7            65.0  3.399037e-03
+70        4b        Fresh Fresh.Marine   15        63.7            66.8  1.577983e-03
+71        1a Fresh/Marine Fresh.Marine   41       296.5            49.2  8.036078e-03
+72        2a Fresh/Marine Fresh.Marine   41       296.5            57.0  4.446867e-03
+73        3a Fresh/Marine Fresh.Marine   41       296.5            36.7  1.518527e-02
+74        1b Fresh/Marine Fresh.Marine   41       296.5            57.2  4.361437e-03
+75        2b Fresh/Marine Fresh.Marine   41       296.5            60.2  3.114646e-03
+76        3b Fresh/Marine Fresh.Marine   41       296.5            60.9  2.832674e-03
+           ktemp
+1            Inf
+2            Inf
+3            Inf
+4            Inf
+5            Inf
+6            Inf
+7            Inf
+8            Inf
+9            NaN
+10           Inf
+11  1.151772e-04
+12  4.422430e-04
+13  2.779783e-03
+14  1.383144e-04
+15  9.207409e-05
+16  1.191663e-03
+17  8.004012e-04
+18  3.715815e-04
+19 -4.183728e-04
+20 -3.085509e-04
+21  1.457424e-03
+22  3.333731e-04
+23  4.371400e-04
+24  4.073794e-04
+25  1.325934e-03
+26  4.969352e-04
+27           Inf
+28           Inf
+29           Inf
+30           Inf
+31           Inf
+32           Inf
+33           Inf
+34           Inf
+35           NaN
+36           Inf
+37  9.119385e-05
+38  1.465619e-04
+39  1.021237e-03
+40  5.883457e-04
+41  7.284732e-05
+42 -9.045948e-06
+43  9.059183e-06
+44  9.059183e-06
+45  1.084552e-03
+46  1.084552e-03
+47  2.007065e-03
+48  6.565093e-04
+49  3.501049e-03
+50  1.224835e-03
+51  1.490709e-03
+52  2.958828e-03
+53           Inf
+54           Inf
+55           Inf
+56           Inf
+57           Inf
+58           Inf
+59           Inf
+60           Inf
+61           NaN
+62           Inf
+63  1.151772e-04
+64  4.422430e-04
+65  2.779783e-03
+66  1.383144e-04
+67  9.207409e-05
+68  1.191663e-03
+69  8.004012e-04
+70  3.715815e-04
+71  1.111228e-03
+72  6.149125e-04
+73  2.099818e-03
+74  6.030992e-04
+75  4.306930e-04
+76  3.917020e-04
